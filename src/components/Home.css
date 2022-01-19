@@ -1,0 +1,59 @@
+.body {
+    color: whitesmoke;
+    margin-left: 15%;
+    margin-top: 6%;
+}
+
+.column {
+    float: left;
+    width: 45%;
+}
+
+.column.side {
+    width: 25%;
+}
+
+.column.middle {
+    width: 50%;
+}
+
+*,
+:after,
+:before {
+    box-sizing: inherit;
+}
+
+.name {
+    margin-top: 7rem;
+}
+
+.text {
+    width: 80%;
+    line-height: 20px;
+    font-size: 20px;
+}
+.about-me {
+    color: orange;
+    text-decoration-line: none;
+}
+
+.profile-card {
+    position: relative;
+    float: right;
+    height: auto;
+}
+
+.profile-card-image {
+    border-radius: 105px;
+    width: 90%;
+    margin-bottom: 2%;
+}
+
+.links {
+    text-align: center;
+}
+
+.linkedin, .github {
+    color: inherit;
+    margin: 1rem;
+}

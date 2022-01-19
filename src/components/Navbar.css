@@ -1,0 +1,16 @@
+.site-header {
+  margin-top: 3rem;
+  margin-left: 5%;
+  position: relative;
+}
+
+.link {
+  color: whitesmoke;
+  margin-left: 100px;
+  font-size: 18px;
+  text-decoration-line: none;
+}
+
+.navbar a:hover, a:active {
+  color: orange;
+}
