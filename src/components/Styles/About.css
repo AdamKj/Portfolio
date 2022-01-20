@@ -1,0 +1,33 @@
+.title {
+    font-size: 26px;
+    margin-bottom: 6%;
+}
+
+.intro-description {
+    color: rgb(200, 200, 200);
+    font-size: 18px;
+}
+
+.column-one {
+    float: left;
+    width: 50%;
+}
+
+.description {
+    color: rgb(155, 155, 155);
+}
+
+.year-stamp {
+    color: whitesmoke;
+    font-size: 22px;
+}
+
+.edu-link {
+    color: orange;
+    text-decoration-line: none;
+}
+
+.ending {
+    color: whitesmoke;
+    font-size: 24px;
+}
